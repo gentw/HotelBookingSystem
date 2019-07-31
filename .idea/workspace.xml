@@ -300,6 +300,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../es-comfort" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -339,12 +340,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564515858040</updated>
       <workItem from="1564515860018" duration="6953000" />
-      <workItem from="1564536128316" duration="4392000" />
+      <workItem from="1564536128316" duration="4642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11345000" />
+    <option name="totallyTimeSpent" value="11595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="-2" width="1920" height="1082" extended-state="6" />
